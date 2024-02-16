@@ -81,7 +81,7 @@ The objective is to prepare/insert the data, analyze and answer some intriquing 
 The database schema was created using postgreSQL GUI
 
 
-## Creating Tables and Inserting Values into our 
+## Creating Tables and Inserting Values into our tables
 
 CREATE TABLE sustainable_clothing (
 
